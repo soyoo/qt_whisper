@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Qt 物语](README.md)
-* [How to make an Application restartable](how-to-make-an-application-restartable.md)
-* [qt application](qt-application.md)
-* [qt network reconnect](qt-network-reconnect.md)
+* [进程自重启](jin-cheng-zi-zhong-qi.md)
+* [单实例](dan-shi-li.md)
+* [网络重连机制](wang-luo-zhong-lian-ji-zhi.md)
